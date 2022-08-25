@@ -1,4 +1,4 @@
-# tic-tac-toe-cli-game
+# tic-tac-toe-game-cli
 This is a simple Tic Tac Toe game which runs through a CLI.
 
 -- Inside the project folder, run the python file by typine './main.py'.
